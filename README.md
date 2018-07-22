@@ -13,7 +13,3 @@
 - [beeman/micro-unfurl](https://github.com/beeman/micro-unfurl)
 - [jacktuck/unfurl](https://github.com/jacktuck/unfurl)
 - [zeit/micro](https://github.com/zeit/micro)
-
-# License
-
-2017 Monotype
