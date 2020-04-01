@@ -4,13 +4,13 @@
   "description": "Small microservice that unfurls a URL and returns the OpenGraph meta data",
   "main": "index.js",
   "private": true,
-  "repository": "https://github.com/adriancbo/micro-unfurl",
+  "repository": "https://github.com/adriancbo/microsvc-unfurl",
   "scripts": {
     "start": "micro",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Adrian Carballo",
   "license": "MIT",
   "dependencies": {
     "micro": "^7.3.3",
