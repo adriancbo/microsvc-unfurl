@@ -11,7 +11,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "2017 Monotype",
+  "license": "MIT",
   "dependencies": {
     "micro": "^7.3.3",
     "microrouter": "^2.1.0",
